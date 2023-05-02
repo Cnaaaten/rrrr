@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<head>
+<title>
+Очень-очень важно
+</title>
+</head>
+<body>
+<p align=center><i><font face="algerian"><i><b>Туц, туц, туц, туц, туц <br>
+Туц, туц, туц, туц, туц <br>
+Туц, туц, туц, туц, туц, мышка сосиска <br>
+Туц, туц, туц, туц, туц, мышка сосиска <br>
+Туц, туц, туц, туц, туц, мышка сосиска <br>
+Туц, туц, туц, туц, туц </i></b></font></p>
+<p align=center><b> <font color=red>О</font> <font color=orange>МАЙ</font> <font color=yellow>ГАРБЛ,</font>
+ <font color=green>РУСЯ</font> <font color=blue>ТЫ</font> <font color=blue>ЧТО</font> 
+<font color=purple>КРЕЙЗИ???</b></i></font></p> 
